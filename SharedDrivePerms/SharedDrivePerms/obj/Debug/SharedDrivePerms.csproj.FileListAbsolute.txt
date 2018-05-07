@@ -1,0 +1,8 @@
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\bin\Debug\SharedDrivePerms.exe.config
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\bin\Debug\SharedDrivePerms.exe
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\bin\Debug\SharedDrivePerms.pdb
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\obj\Debug\SharedDrivePerms.MainFrom.resources
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\obj\Debug\SharedDrivePerms.Properties.Resources.resources
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\obj\Debug\SharedDrivePerms.csproj.GenerateResource.Cache
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\obj\Debug\SharedDrivePerms.exe
+C:\Users\hps01\Documents\GETSETPermission\SharedDrivePerms\SharedDrivePerms\obj\Debug\SharedDrivePerms.pdb
